@@ -1,19 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  1 15:15:35 2024
-
-@author: catherinelin
-"""
-
-"""
-MATH20621 - Coursework 3
-Student name: Yule Lin
-Student id:   11374311
-Student mail: yule.lin@student.manchester.ac.uk
-"""
-
-
 def display_state(s, *, clear=False):
     """
     Display the state s
